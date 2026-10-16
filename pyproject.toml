@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sqlite-fixture-closure"
+version = "0.1.0"
+description = "Open a SQLite source read-only, follow declared parent primary-key foreign keys to a fixed point, and emit deterministic INSERTs with per-row inclusion evidence."
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = []
+
+[project.scripts]
+sqlite-fixture-closure = "sqlite_fixture_closure:main"
+
+[tool.setuptools]
+py-modules = ["sqlite_fixture_closure"]
