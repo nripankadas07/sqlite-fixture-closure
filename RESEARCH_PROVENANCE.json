@@ -1,0 +1,118 @@
+[
+  {
+    "full": "Wisser/Jailer",
+    "url": "https://github.com/Wisser/Jailer",
+    "stars": 3211,
+    "default_branch": "master",
+    "pushed_at": "2026-10-15T11:12:20Z",
+    "updated_at": "2026-10-15T10:41:12Z",
+    "archived": false,
+    "license": "Apache-2.0",
+    "description": "Database Subsetting and Relational Data Browsing Tool.",
+    "observed": "2026-10-16T06:07:57.117Z",
+    "readme": {
+      "path": "README.md",
+      "sha": "f0f9db2ae4542e6ba24852bc8c655c3331116b58"
+    },
+    "issues": [],
+    "observation_scope": "Metadata, current README and up to five current issue/PR entries inspected; not exhaustive issue history or a competitor execution benchmark."
+  },
+  {
+    "full": "TonicAI/condenser",
+    "url": "https://github.com/TonicAI/condenser",
+    "stars": 337,
+    "default_branch": "master",
+    "pushed_at": "2025-07-28T13:29:47Z",
+    "updated_at": "2026-08-06T08:51:26Z",
+    "archived": false,
+    "license": "MIT",
+    "description": "Condenser is a database subsetting tool",
+    "observed": "2026-10-16T06:08:19.823Z",
+    "readme": {
+      "path": "README.md",
+      "sha": "7793186b8a7346489d72208e143908691aa70649"
+    },
+    "issues": [
+      {
+        "number": 48,
+        "title": "Allos.Dynamic.RedactedOperationCanceledException: The operation was canceled.",
+        "url": "https://github.com/TonicAI/condenser/issues/48",
+        "pull_request": false
+      },
+      {
+        "number": 47,
+        "title": "UUID Foreign Key",
+        "url": "https://github.com/TonicAI/condenser/issues/47",
+        "pull_request": false
+      },
+      {
+        "number": 39,
+        "title": "Setup poetry",
+        "url": "https://github.com/TonicAI/condenser/pull/39",
+        "pull_request": true
+      },
+      {
+        "number": 34,
+        "title": "Redundancy between db_name and prefacing every table with the name of the database?",
+        "url": "https://github.com/TonicAI/condenser/issues/34",
+        "pull_request": false
+      },
+      {
+        "number": 30,
+        "title": "Writing subset to SQL file instead of to destination DB",
+        "url": "https://github.com/TonicAI/condenser/issues/30",
+        "pull_request": false
+      }
+    ],
+    "observation_scope": "Metadata, current README and up to five current issue/PR entries inspected; not exhaustive issue history or a competitor execution benchmark."
+  },
+  {
+    "full": "18F/rdbms-subsetter",
+    "url": "https://github.com/18F/rdbms-subsetter",
+    "stars": 310,
+    "default_branch": "master",
+    "pushed_at": "2017-12-13T16:25:28Z",
+    "updated_at": "2026-08-17T15:36:31Z",
+    "archived": true,
+    "license": "CC0-1.0",
+    "description": "Generates a subset of a relational database that respects foreign key constraints",
+    "observed": "2026-10-16T06:07:57.902Z",
+    "readme": {
+      "path": "README.rst",
+      "sha": "a3b8090a93fb0de95181939b1d53a3e122c4dead"
+    },
+    "issues": [
+      {
+        "number": 46,
+        "title": "Is there a way to adapt this to work with dbs that have postgis/geometry data?",
+        "url": "https://github.com/18F/rdbms-subsetter/issues/46",
+        "pull_request": false
+      },
+      {
+        "number": 45,
+        "title": "is this project alive?",
+        "url": "https://github.com/18F/rdbms-subsetter/issues/45",
+        "pull_request": false
+      },
+      {
+        "number": 44,
+        "title": "Please make a new release",
+        "url": "https://github.com/18F/rdbms-subsetter/issues/44",
+        "pull_request": false
+      },
+      {
+        "number": 40,
+        "title": "ImportError while running rdbms-subsetter",
+        "url": "https://github.com/18F/rdbms-subsetter/issues/40",
+        "pull_request": false
+      },
+      {
+        "number": 36,
+        "title": "refac branch bug",
+        "url": "https://github.com/18F/rdbms-subsetter/issues/36",
+        "pull_request": false
+      }
+    ],
+    "observation_scope": "Metadata, current README and up to five current issue/PR entries inspected; not exhaustive issue history or a competitor execution benchmark."
+  }
+]
